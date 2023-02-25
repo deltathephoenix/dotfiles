@@ -1,3 +1,6 @@
+#please for sudo
+alias please="sudo" #for the lolz
+
 #quick reset .bashrc 
 alias brst="source ~/.bashrc"
 
