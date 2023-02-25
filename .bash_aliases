@@ -1,3 +1,5 @@
+#Place: ~/.bash_aliases
+
 #please for sudo
 alias please="sudo" #for the lolz
 
