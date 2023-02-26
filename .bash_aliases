@@ -1,5 +1,3 @@
-#Place: ~/.bash_aliases
-
 #please for sudo
 alias please="sudo" #for the lolz
 
@@ -12,7 +10,7 @@ alias npu="sudo nala purdge"
 alias nun="sudo nala uninstall"
 alias nse="sudo nala search"
 alias napu="sudo nala autopurge"
-
+alias nup="sudo nala upgrade"
 #nvim quick phrases
 alias v="nvim"
 
@@ -22,6 +20,7 @@ alias la='exa -a --color=always --group-directories-first'  # all files and dirs
 alias ll='exa -l --color=always --group-directories-first'  # long format
 alias lt='exa -aT --color=always --group-directories-first' # tree listing
 alias l.='exa -a | egrep "^\."'
+alias lR='exa -alR --color=always --group-directories-first'
 
 # git (stolen dotfiles, lern git first!)
 #alias addup='git add -u'
