@@ -11,6 +11,7 @@ alias nun="sudo nala uninstall"
 alias nse="sudo nala search"
 alias napu="sudo nala autopurge"
 alias nup="sudo nala upgrade"
+
 #nvim quick phrases
 alias v="nvim"
 
@@ -35,7 +36,6 @@ alias lR='exa -alR --color=always --group-directories-first'
 #alias stat='git status'  # 'status' is protected name so using 'stat' instead
 #alias tag='git tag'
 #alias newtag='git tag -a'
-
 
 # confirm before overwriting something
 alias cp="cp -i"
@@ -67,4 +67,3 @@ ex ()
     echo "'$1' is not a valid file"
   fi
 }
-
